@@ -1,3 +1,8 @@
+# Answers 
+I have solved the assignment in file App.js.
+I have used Node.js.
+
+
 # Technical Assignment
 Assignment to test fundamental knowledge for Prism Force. This can be written in any language or framework.
 
