@@ -1,7 +1,10 @@
 # Answers 
 I have solved the assignment in file App.js.
 I have used Node.js.
-
+The app can be run directly in IDE if you have Node.js installed in your system.
+First use command npm install , then run the file with command 'node App.js'.
+File names can be changes in function fs.readfile so that one can test it for different test cases.
+All the outpur will be printes in Console.
 
 # Technical Assignment
 Assignment to test fundamental knowledge for Prism Force. This can be written in any language or framework.
